@@ -1,4 +1,4 @@
-package com.salesforceapp;
+package com.fbu.placemakerstrade.stc;
 
 import com.facebook.react.ReactActivity;
 

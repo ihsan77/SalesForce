@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">SalesForceApp</string>
+    <string name="app_name">PlaceMakers SIT</string>
+    <string name="facebook_app_id">342778386745011</string>
+    <string name="facebook_authority_class">com.facebook.app.FacebookContentProvider342778386745011</string>
 </resources>

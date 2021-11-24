@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.salesforceapp",
+    package = "com.fbu.placemakerstrade.stc;",
 )
 
 android_resource(
     name = "res",
-    package = "com.salesforceapp",
+    package = "com.fbu.placemakerstrade.stc;",
     res = "src/main/res",
 )
 

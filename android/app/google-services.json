@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "852309005899",
+    "firebase_url": "https://trademakers-app-qa.firebaseio.com",
+    "project_id": "trademakers-app-qa",
+    "storage_bucket": "trademakers-app-qa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852309005899:android:8429fbc27317e653ec5fce",
+        "android_client_info": {
+          "package_name": "com.fbu.placemakerstrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6k4MBe89yPDfMShKjz5fxLXWQYUMxgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852309005899-trt9vaaftfj3n3biusfvg9prfg36h006.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fbu.placemakerstrade.stc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852309005899:android:94c812cc49e849bbec5fce",
+        "android_client_info": {
+          "package_name": "com.fbu.placemakerstrade.stc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6k4MBe89yPDfMShKjz5fxLXWQYUMxgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852309005899-trt9vaaftfj3n3biusfvg9prfg36h006.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fbu.placemakerstrade.stc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852309005899:android:e956cb70a8ac9d9aec5fce",
+        "android_client_info": {
+          "package_name": "com.fbu.placemakerstrade.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6k4MBe89yPDfMShKjz5fxLXWQYUMxgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852309005899-trt9vaaftfj3n3biusfvg9prfg36h006.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fbu.placemakerstrade.stc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852309005899:android:145101989bc4c3c1",
+        "android_client_info": {
+          "package_name": "com.fletcherbuildertradeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6k4MBe89yPDfMShKjz5fxLXWQYUMxgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852309005899-trt9vaaftfj3n3biusfvg9prfg36h006.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fbu.placemakerstrade.stc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852309005899:android:bd53cca00b0f5f0cec5fce",
+        "android_client_info": {
+          "package_name": "com.fletcherbuildertradeapp.pilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6k4MBe89yPDfMShKjz5fxLXWQYUMxgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852309005899-65knukeehqcp7iv1saeam5iiao8vg1rc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852309005899-trt9vaaftfj3n3biusfvg9prfg36h006.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fbu.placemakerstrade.stc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
